@@ -5,7 +5,14 @@
 <body>
 	<p>This is some text</p>
 
+	<div style="border-radius:2px;border: 1px solid #ggffdd">
+		BOX
+	</div>
+
 </body>
 </html>
 
+<<<<<<< HEAD
 // Some comment 2
+=======
+>>>>>>> 6e8b0dc827847b11231da53e1e5d3e87a26b5d0a
