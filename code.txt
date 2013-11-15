@@ -5,12 +5,5 @@
 <body>
 	<p>This is some text</p>
 
-<<<<<<< HEAD
-<head> </head>
-
-
-
-=======
 </body>
->>>>>>> f63f3041a288cc268ba2550df74304f88d2747df
 </html>
