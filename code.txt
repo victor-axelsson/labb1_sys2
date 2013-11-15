@@ -7,3 +7,5 @@
 
 </body>
 </html>
+
+// Some comment 2
